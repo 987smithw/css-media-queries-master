@@ -1,0 +1,42 @@
+
+
+
+@media screen and (min-width:1000px) {
+  /* These rules are applied for devices greater than or equal to 650 */
+  .nav li {
+    display: inline-block;
+
+  }
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #e7e7e7;
+}
+
+.nav ul {
+  list-style: none;
+  background-color: #1f2126;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.nav li {
+  font-family: arial;
+  font-size: 1.2em;
+  line-height: 50px;
+  height: 50px;
+  border-bottom: none;
+  width: 120px;
+  /* display: inline-block; */
+  margin: auto;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #ffffff;
+  /* display: inline-block; */
+}
