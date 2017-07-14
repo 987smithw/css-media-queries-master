@@ -1,7 +1,7 @@
 
 
 
-@media screen and (min-width:1000px) {
+@media screen and (min-width:649px) {
   /* These rules are applied for devices greater than or equal to 650 */
   .nav li {
     display: inline-block;
